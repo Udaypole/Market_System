@@ -16,7 +16,7 @@ Ready for Vercel auto-deployments
 
 Frontend & Backend: Next.js + TypeScript + React + MERN
 
-Database: MongoDB (optional)
+Database: MongoDB 
 
 Hosting: Vercel
 
