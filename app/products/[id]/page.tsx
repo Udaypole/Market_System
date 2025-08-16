@@ -146,7 +146,7 @@ export default function ProductDetailPage() {
               </Badge>
             </div>
             <h1 className="text-3xl font-bold mb-2">{product.name}</h1>
-            <p className="text-2xl font-bold text-accent">${product.price.toFixed(2)}</p>
+            <p className="text-2xl font-bold text-accent">₹{product.price.toFixed(2)}</p>
           </div>
 
           <div>
