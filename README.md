@@ -21,7 +21,7 @@ Database: MongoDB
 Hosting: Vercel
 
 
-   ** 🚀 Getting Started**
+  ** 🚀 Getting Started**
    
 cd Market_System
 
